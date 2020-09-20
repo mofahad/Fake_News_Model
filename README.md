@@ -1,8 +1,7 @@
 # Fake_News_Model
 With an aim to detect fake news
 
-
-https://fakewebapp.herokuapp.com/
+https://fakewebapp2.herokuapp.com/
 
 Fake News Detection in Python
 
